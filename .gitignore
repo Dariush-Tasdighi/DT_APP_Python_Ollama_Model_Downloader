@@ -1,0 +1,15 @@
+.env
+.zip
+
+.venv/
+.venv.3.9/
+.venv.3.10/
+.venv.3.11/
+.venv.3.12/
+.venv.3.13/
+.venv.3.14/
+.venv.3.15/
+
+.vscode/
+downloads/
+__pycache__/
